@@ -66,13 +66,13 @@ All data is annual (FY-based).
 ## Dashboard Previews
 
 ### Executive Financial Overview
-![Dashboard 1](Screenshots/Dashboard_1_Executive_Overview.png)
+![Dashboard 1](Dashboard_1.png)
 
 ### Ratio Analysis Dashboard
-![Dashboard 2](Screenshots/Dashboard_2_Ratio_Analysis.png)
+![Dashboard 2](Dashboard_2.png)
 
 ### Trend & Comparison
-![Dashboard 3](Screenshots/Dashboard_3_Trend_Comparison.png)
+![Dashboard 3](Dashboard_3.png)
 
 ---
 
